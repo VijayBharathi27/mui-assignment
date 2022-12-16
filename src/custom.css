@@ -5,14 +5,7 @@
     height: 100vh;
 }
 
-fieldset.MuiOutlinedInput-notchedOutline.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
-    border-color:  #FF0000;
+fieldset{
+    border-color:  #FF0000 !important;   
 }
 
-.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root:hover fieldset.MuiOutlinedInput-notchedOutline.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
-    border-color:  #FF0000;   
-}
-/*when text field is active*/
-.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline{
-    border-color:  #FF0000 !important;
-}
