@@ -4,7 +4,13 @@
     align-items: center;
     height: 100vh;
 }
-
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+button{
+    margin-top: 10px;
+}
 fieldset{
     border-color:  #FF0000 !important;   
 }
